@@ -5,7 +5,7 @@
 #include FT_FREETYPE_H
 #include FT_STROKER_H
 
-#include <aribeiro/aribeiro.h>
+#include <aRibeiroCore/aRibeiroCore.h>
 
 #include "FT2Glyph.h"
 

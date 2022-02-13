@@ -1,7 +1,7 @@
 #ifndef ft2_rect__h__
 #define ft2_rect__h__
 
-#include <aribeiro/aribeiro.h>
+#include <aRibeiroCore/aRibeiroCore.h>
 #include <vector>
 
 namespace ft2Wrapper {

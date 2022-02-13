@@ -1,7 +1,7 @@
 #ifndef ft2_glyph__h__
 #define ft2_glyph__h__
 
-#include <aribeiro/aribeiro.h>
+#include <aRibeiroCore/aRibeiroCore.h>
 #include "FT2Rect.h"
 
 namespace ft2Wrapper {

@@ -1,4 +1,5 @@
 #include "FT2Glyph.h"
+#include <aRibeiroData/aRibeiroData.h> // PNGHelper
 
 namespace ft2Wrapper {
     
